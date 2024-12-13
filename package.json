@@ -1,7 +1,7 @@
 {
-    "name": "safety-app-keycloakify",
+    "name": "xview-keycloakify",
     "version": "0.0.0",
-    "description": "Safety App for Keycloakify 11",
+    "description": "xView for Keycloakify 11",
     "repository": {
         "type": "git",
         "url": "git://github.com/codegouvfr/keycloakify-starter.git"
